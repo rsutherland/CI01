@@ -21,32 +21,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>Account</members>
-        <members>AccountContactRole</members>
-        <members>Activity</members>
-        <members>Asset</members>
-        <members>Campaign</members>
-        <members>CampaignMember</members>
-        <members>Case</members>
-        <members>CaseContactRole</members>
-        <members>Contact</members>
-        <members>ContentVersion</members>
-        <members>Contract</members>
-        <members>ContractContactRole</members>
-        <members>Event</members>
-        <members>Lead</members>
-        <members>Opportunity</members>
-        <members>OpportunityCompetitor</members>
-        <members>OpportunityContactRole</members>
-        <members>OpportunityLineItem</members>
-        <members>PartnerRole</members>
-        <members>Pricebook2</members>
-        <members>Product2</members>
-        <members>Site</members>
-        <members>SocialPersona</members>
-        <members>Solution</members>
-        <members>Task</members>
-        <members>User</members>
+        <members>*</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -57,6 +32,9 @@
         <members>Asset-Asset Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
+        <members>Campaign_List_Additional_Campaigns__c-Campaign List - Additional Campaigns Layout</members>
+        <members>Campaign_List_Generation_Criteria__c-Campaign List Generation Criteria Layout</members>
+        <members>Campaign_List_Generation__c-Campaign List Generation Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
         <members>Case-Case %28Sales%29 Layout</members>
         <members>Case-Case %28Support%29 Layout</members>
