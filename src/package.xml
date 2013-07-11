@@ -34,7 +34,6 @@
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>Event</members>
-        <members>Idea</members>
         <members>Lead</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
