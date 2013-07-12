@@ -12,6 +12,7 @@ private class ctlrCampaignListGenerator_Tests {
 		c2.IsActive = true;
 		insert c2;
 		system.assertnotequals(null,c2.id);
+		system.assertnotequals(null,null);
 		
 		Campaign_List_Generation__c clg = new Campaign_List_Generation__c();
 		clg.Campaign__c = c.id;
