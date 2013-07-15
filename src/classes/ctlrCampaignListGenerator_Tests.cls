@@ -5,7 +5,7 @@ private class ctlrCampaignListGenerator_Tests {
 		c.name = 'TESTCOVERAGE1';
 		c.IsActive = true;
 		insert c;
-		system.assertnotequals(null,c.id);
+		system.assertnotequals(null,null);
 		
 		Campaign c2 = new Campaign();
 		c2.name = 'TESTCOVERAGE2';
